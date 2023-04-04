@@ -1,0 +1,15 @@
+nav {
+    height: 50px;
+    background-color: lightgrey;
+  }
+  .inline-block {
+    padding: 15px;
+    display: inline-block;
+  }
+
+.left {
+    width: 29%;
+    height: auto;
+    background-color: blue;
+    float: left;
+}
